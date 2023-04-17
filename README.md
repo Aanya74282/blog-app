@@ -73,17 +73,20 @@ npm start
 ### Login and Signup
 Registered Users can log in to their account using the username and password and can start creating and viewing blogs. New users can signup using their email.
 
-<img src="images/login-screen.png" alt="login screen" width="700"/>
+<img src="images/101.png" alt="login screen" width="700"/>
+<img src="images/102.png" alt="login screen" width="700"/>
  
 ### Home Page-
 This page displays all the blogs and categories available. Users can choose to view blogs written by other users by clicking on that particular blog.
 
-<img src="images/Home-screen.png" alt="video call welcome screen" width="700"/>
+<img src="images/home-page.png" alt="video call welcome screen" width="700"/>
 
 ### Create a blog-
 Users can create blogs by clicking on the ‘Create Blog’ button after choosing a particular category listed on the home page. Users after choosing a suitable title, and description and adding an image can click on the ‘Submit’ button. After submitting, the blog will be displayed on the home page.
 
-<img src="images/recommendation-window.png" alt="blank chat window" width="700"/>
+<img src="images/Create Blog.png" alt="blank chat window" width="700"/>
 
 ### Particular Blog
 After clicking on a particular blog,user is redirected to the respective blog wherein the user can comment on blog and if the comment is written by that particular user,he can choose to delete it.Similarly, if the blog is written by that particular user, he can choose to delete/upadate the blog. 
+
+<img src="images/View Blogs.png" alt="blank chat window" width="700"/>
