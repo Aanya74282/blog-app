@@ -1,4 +1,3 @@
-# blog-app
 <h1 align="center">BLOG_IT</h1>
 
  <!-- TABLE OF CONTENTS -->
