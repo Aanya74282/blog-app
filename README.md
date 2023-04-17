@@ -79,7 +79,7 @@ Registered Users can log in to their account using the username and password and
 ### Home Page-
 This page displays all the blogs and categories available. Users can choose to view blogs written by other users by clicking on that particular blog.
 
-<img src="img/home-page.png" alt="video call welcome screen" width="700"/>
+<img src="img/HomePage.png" alt="video call welcome screen" width="700"/>
 
 ### Create a blog-
 Users can create blogs by clicking on the ‘Create Blog’ button after choosing a particular category listed on the home page. Users after choosing a suitable title, and description and adding an image can click on the ‘Submit’ button. After submitting, the blog will be displayed on the home page.
